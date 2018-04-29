@@ -1,0 +1,67 @@
+\documentclass[11pt,english,a4paper]{report}
+\usepackage[margin=40pt]{geometry}
+\usepackage{xcolor}
+\usepackage{cite}
+\usepackage{fancyhdr}
+\usepackage{newcent}
+\usepackage{indentfirst}
+\usepackage{amsmath}
+\pagestyle{fancy}
+\usepackage{float}
+\fancyhf{}
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\fancyfoot[R]{%
+	\footnotesize\sffamily
+	Fish tank\quad
+	Group 14
+}
+\fancyhead[c]{%
+	\footnotesize
+	\includegraphics[scale=0.032]{xjtlu.eps}\qquad
+	\textcolor{blue}{\textbf{\large XJTLU}}\qquad
+	EEE212 group project}
+\fancyfoot[l]{~\thepage~}
+\setlength{\headheight}{16.5pt}
+\begin{document}
+	\begin{titlepage}
+		\begin{center}
+			\includegraphics[scale=1.5]{CoverSheet.pdf}\\
+			\bf{DEPARTMENT OF ELECTRICAL AND ELECTRONIC ENGINEERING}
+		\end{center}
+		\vspace{18mm}
+		\begin{center}
+			\begin{Large}
+				\vspace{2.0cm}
+				\LARGE{EEE212 group project}
+			\end{Large}
+		\end{center}
+		\vspace{2.0cm}
+		\begin{center}
+			\begin{large}
+				\vspace{3.0cm}
+				\begin{tabular}{r@{ }l}
+					Student Names : & Zixuan.guo, xxxx  \\
+					Student ID :   & 1508672,150xxxx    \\
+					Professor :    & Toting  \\ \
+				\end{tabular}
+			\end{large}
+		\end{center}
+	\end{titlepage}
+	
+	\tableofcontents
+	\newpage
+	\renewcommand\thesection{\arabic {section}}
+	\section{\textcolor{blue}{\textbf{\Large {Overview}}}}
+    This is the group project report. Make sure you make a copy before any changes.
+    \begin{figure}[htb]
+    \includegraphics[width=2cm]{001-animals.eps}
+    \includegraphics[width=2cm]{002-drop.eps}
+    \includegraphics[width=2cm]{003-thermometer.eps}
+    \includegraphics[width=2cm]{004-oxygen.eps}
+    \end{figure}
+
+	\bibliographystyle{ieeetr}
+	\renewcommand\bibname{References}
+	\bibliography{bib}
+\end{document}
