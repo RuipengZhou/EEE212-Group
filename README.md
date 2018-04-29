@@ -1,6 +1,5 @@
 # EEE212-Group Project
 # 首先要看的
-- 今晚8:00 文萃人才公寓星巴克外面集合
 - 我创建了一个overleaf团队项目用作完成report和演讲的beamer
    * 这个作业应该只用交一份report
    * overleaf是一个在线latex写作网站
