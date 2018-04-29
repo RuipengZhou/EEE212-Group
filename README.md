@@ -8,7 +8,12 @@
    - 只读链接[overleaf](https://www.overleaf.com/read/qjhghfgknbsq)
    - 当我把拥有编辑权限的链接发送在群里后，人人可以更改其内容
    - 记住任何修改之前，请做好本地备份
- - 其实一开始我想用github的，考虑到大部分人不会用git命令，只好作罢
  - 有任何关于项目的变动，我都会在这里更新
  - 作为电气和计算机的学生，github还是要会用的，推荐[廖雪峰的git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+    - 这个教程可能对你们来说有点难，上网学如何fork和pull request就行
  - *最最最关键的一点，如果有任何问题，一定要说，在群里大声的说。*
+# 4月29日更新
+- 请于中午12点之前上传自己的演讲大纲，不用写太多
+  - 能用markdown就用markdown，排版容易，效率高
+  - 或者txt也行
+  - 放在[EEE212-Group/Presentation/Outlines/](https://github.com/Davidgzx/EEE212-Group/tree/master/Presentation/Outlines)路径下
