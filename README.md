@@ -14,6 +14,6 @@
  - *最最最关键的一点，如果有任何问题，一定要说，在群里大声的说。*
 # 4月29日更新
 - 请于中午12点之前上传自己的演讲大纲，不用写太多
-  - 能用markdown就用markdown，排版容易，效率高
-  - 或者txt也行
-  - 放在[EEE212-Group/Presentation/Outlines/](https://github.com/Davidgzx/EEE212-Group/tree/master/Presentation/Outlines)路径下
+    - 能用markdown就用markdown，排版容易，效率高
+    - 或者txt也行
+    - 放在[EEE212-Group/Presentation/Outlines/](https://github.com/Davidgzx/EEE212-Group/tree/master/Presentation/Outlines)路径下
